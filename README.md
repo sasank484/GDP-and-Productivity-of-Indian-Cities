@@ -2,6 +2,7 @@
 **Analysis One: Sector Contributions to GDP Growth**
 
 •	The first research question seeks to determine which business sector contributes most significantly to GDP growth across Indian cities. Using sectoral data, we aimed to identify the strongest contributors to GDP growth. RapidMiner’s "Linear Regression" operator was employed to model the •relationship between the independent variables (SME Employment, Tourism Sector Employment, ICT Sector Employment) and the dependent variable (GDP growth).
+
 ![image](https://github.com/user-attachments/assets/dd9754af-d0b5-4d25-88f4-41cec9c52f44)
 
 •	Interpretation: The results indicate that the Tourism sector has a positive impact on GDP growth, with a 0.2% increase in GDP for every 1% increase in Tourism employment. However, both SME Employment and ICT Sector Employment have negative effects on GDP, though relatively small. For example, a 1% increase in SME Employment leads to a 0.3% decrease in GDP.
@@ -21,6 +22,7 @@ Interpretation: The decision tree analysis confirms the importance of R&D invest
 **Analysis Three: Clustering Cities by Economic Characteristics**
 
 The third research question seeks to uncover patterns among cities based on their economic characteristics. Using the "K-Means Clustering" operator, we grouped cities based on attributes such as GDP growth, employment rates, and sector-specific incomes.
+
 ![image](https://github.com/user-attachments/assets/b2009afa-8644-4253-a314-956b5586dbd4)
 
 •	Cluster 1: Cities with high R&D expenditure (greater than 3% of GDP) and low unemployment (below 4%) fell into this cluster. These cities had an average GDP growth rate of 3.5%.
@@ -35,6 +37,7 @@ The third research question seeks to uncover patterns among cities based on thei
 **Analysis Four: Trend Analysis of R&D Expenditure and Unemployment Rate Over Time**
 
 The fourth research question aims to analyze the trends of R&D expenditure and unemployment rates over time (2019–2024) and understand how these indicators relate to economic growth in Indian cities.
+
 ![image](https://github.com/user-attachments/assets/b7eefe48-372b-4dfc-8052-bb4e2b61d253)
 
 Interpretation: The data shows fluctuating trends in R&D expenditure over the period analyzed, with a negative value in earlier years (-0.181 and -0.176) and slightly increasing in the later years (0.059). Unemployment rates also show varying trends, peaking in earlier years (0.206) and gradually decreasing over time (-0.267 in later years).
