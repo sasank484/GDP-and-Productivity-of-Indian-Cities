@@ -14,7 +14,9 @@ The second research question explores which factors most influence GDP growth in
 ![image](https://github.com/user-attachments/assets/4fb4a8fc-dc71-4644-b894-2af8bf1999c5)
 
 •	Top Predictor: R&D Expenditure (% of GDP) was identified as the most important factor influencing GDP growth. Cities with R&D expenditures greater than 2.5% of GDP consistently showed GDP growth rates above 3%.
+
 •	Unemployment Rate: Cities with unemployment rates lower than 5% tended to have GDP growth rates above 2.8%, while cities with higher unemployment rates experienced slower growth.
+
 •	Tourism Sector Employment: Cities with tourism sector employment above 7% showed an average GDP growth rate of 2.9%.
 Interpretation: The decision tree analysis confirms the importance of R&D investment and low unemployment in driving economic growth. Cities investing more than 2.5% of GDP in R&D and maintaining low unemployment rates see stronger GDP growth.
 
@@ -26,11 +28,16 @@ The third research question seeks to uncover patterns among cities based on thei
 ![image](https://github.com/user-attachments/assets/b2009afa-8644-4253-a314-956b5586dbd4)
 
 •	Cluster 1: Cities with high R&D expenditure (greater than 3% of GDP) and low unemployment (below 4%) fell into this cluster. These cities had an average GDP growth rate of 3.5%.
+
 •	Cluster 2: Cities with moderate ICT and SME Employment (ICT sector employment between 10-15%) showed an average GDP growth rate of 2.2%. These cities also had a moderate unemployment rate (around 6%).
+
 •	Cluster 3: Cities with low R&D expenditure (less than 2% of GDP) and high unemployment rates (above 7%) fell into this cluster. These cities had the lowest GDP growth, averaging 1.8%.
  Interpretation:
+ 
 •	Cluster 1 represents the high-growth cities where R&D investment and low unemployment are driving significant GDP growth. These cities offer a blueprint for economic success.
+
 •	Cluster 2 includes cities with moderate performance, where sectors like ICT contribute to stable but lower growth.
+
 •	Cluster 3 includes cities struggling with high unemployment and low investment in innovation, resulting in the lowest GDP growth.
 
 
