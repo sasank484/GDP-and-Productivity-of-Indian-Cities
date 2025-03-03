@@ -32,6 +32,7 @@ The third research question seeks to uncover patterns among cities based on thei
 •	Cluster 2: Cities with moderate ICT and SME Employment (ICT sector employment between 10-15%) showed an average GDP growth rate of 2.2%. These cities also had a moderate unemployment rate (around 6%).
 
 •	Cluster 3: Cities with low R&D expenditure (less than 2% of GDP) and high unemployment rates (above 7%) fell into this cluster. These cities had the lowest GDP growth, averaging 1.8%.
+ 
  Interpretation:
  
 •	Cluster 1 represents the high-growth cities where R&D investment and low unemployment are driving significant GDP growth. These cities offer a blueprint for economic success.
