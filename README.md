@@ -1,3 +1,12 @@
+# Mapping Drivers of Urban GDP Growth in India (2019–2024)
+
+This project examines which sectors and macro-factors most influence GDP growth across Indian cities using RapidMiner workflows. We quantify sectoral contributions (SME, Tourism, ICT) using linear regression, identify the most influential drivers (e.g., R&D expenditure, unemployment, sector incomes) with a Decision Tree, segment cities by economic profiles using K-means clustering, and track trends in R&D intensity and unemployment from 2019 to 2024. Findings indicate a positive association between Tourism employment and GDP growth, with consistently stronger growth in cities that invest more in R&D and have lower unemployment rates, offering practical guidance for policy and city-level strategy.
+
+**What’s inside**
+- Linear Regression: Sectoral employment vs. GDP growth  
+- Decision Tree: Feature importance (R&D %, unemployment, sector incomes)  
+- K-Means: City clusters by growth, unemployment, and innovation intensity  
+- Trend Analysis (2019–2024): R&D expenditure and unemployment dynamics
 
 **Analysis One: Sector Contributions to GDP Growth**
 
